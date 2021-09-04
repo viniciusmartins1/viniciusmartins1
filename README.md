@@ -1,8 +1,9 @@
+
 # Hello World 🌎😉
  
 My name is Vinicius Martins 🙌
   
-I'm a programming student and I like to learn new technologies and innovative things. 👨‍💻 .
+I am programming student, passionate about technology and like to learn new and innovative things. 👨‍💻 
 #### "💡 Change your thoughts and you change your world 🌐"
 - 📌 Living in São Paulo - SP.
 - 💻 Back-end.
