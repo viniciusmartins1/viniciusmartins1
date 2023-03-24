@@ -9,3 +9,4 @@ I am programming student, passionate about technology and like to learn new and 
 - 💻 Front-end.
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-martins-620ab51b9/)](https://www.linkedin.com/in/vinicius-martins1/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@twins_tech)](https://www.youtube.com/@twins_tech)
