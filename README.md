@@ -8,7 +8,7 @@ I'm passionate about technology and I like learning new and innovative things. �
 #### "💡 Change your thoughts and you change your world 🌐"
 
 #### my website 
-[viniciusgmartins.com.br](www.viniciusgmartins.com.br) ❄️
+[viniciusgmartins.com.br](https://www.viniciusgmartins.com.br) ❄️
 
 #### social media and content
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-martins-620ab51b9/)](https://www.linkedin.com/in/vinicius-martins1/)
